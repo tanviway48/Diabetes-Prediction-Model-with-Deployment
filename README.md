@@ -1,5 +1,5 @@
 
-# Diabetes Predection Model
+# 💊🏥Diabetes Predection Model
 
 A pre-trained Support Vector Machine (SVM) model, saved using the pickle module, is used to make predictions on whether a person is diabetic based on input features.
 
@@ -12,7 +12,7 @@ The model used in this code is an SVM (Support Vector Machine), a supervised mac
 
 
 
-## Deployment
+## 👩🏼‍💻Deployment
 
 I developed and deployed a machine learning model for diabetes prediction in a web application using Streamlit, a popular Python framework for building data-driven applications with ease. The model, trained using a Support Vector Machine (SVM), was integrated into the web app to allow users to input relevant health parameters and receive predictions on whether they are likely to have diabetes.
 
@@ -38,13 +38,11 @@ from sklearn.metrics import accuracy_score
 ```
 
 
-## Screenshots
+## 📷 Screenshots
 
 ![Screenshot 2024-09-19 192810](https://github.com/user-attachments/assets/08c44940-0e09-405c-80b4-8f8b5966e13e)
 
-
-
-## Run Locally
+## 💻 Run Locally
 
 Clone the project
 
